@@ -1,2 +1,2 @@
-# dio-desafio-github-primeiro-projeto
-Desafio de Projeto sobre Git/Github
+# Desafio da sobre Git/Github da Dio :snowflake:
+### Repositório que criei para fazer o projeto 
